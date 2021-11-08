@@ -1,2 +1,2 @@
-# mujoco-unity
+# Mujoco Unity Plugin
 Enhancements to Mujoco Unity plugin
